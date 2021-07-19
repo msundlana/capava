@@ -1,0 +1,19 @@
+Asset Name,Total Incident,Total Downtime,Rating
+Homeloans,2,82860,40
+Payments Gateway,4,82560,40
+Payments Gateway,3,82800,50
+Payments Gateway,1,85860,30
+Payments Gateway,3,82560,30
+CRM,6,70260,160
+CRM,1,86340,10
+Insurance,1,84000,30
+Insurance,2,86220,20
+CRM,1,85140,30
+Homeloans,1,84780,10
+Insurance,4,61320,60
+Homeloans,2,83460,20
+Lending Department,2,80040,40
+Homeloans,2,82860,60
+CRM,1,85140,30
+Lending Department,2,85440,40
+Insurance,9,73380,150
